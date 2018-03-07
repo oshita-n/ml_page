@@ -1,0 +1,32 @@
+Arguments: 
+  /usr/local/Cellar/node/9.7.1/bin/node /usr/local/Cellar/yarn/1.5.1/libexec/bin/yarn.js run link
+
+PATH: 
+  /usr/local/gcc-arm-none-eabi-5_4-2016q3/bin:/usr/local/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc:/usr/local/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-g++:/Users/noriakioshita/.nodebrew/current/bin:/usr/local:/Users/noriakioshita/Downloads/google-cloud-sdk/bin:/usr/local/sbin:/Users/noriakioshita/.jenv/shims:/Users/noriakioshita/.jenv/bin:/Users/noriakioshita/.pyenv/shims:/Users/noriakioshita/.pyenv/bin:/Users/noriakioshita/.pyenv/versions/anaconda3-4.0.0/bin:/usr/local/Cellar/pyenv/1.0.8/libexec:/usr/local/gcc-arm-none-eabi-5_4-2016q3/bin:/usr/local/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-gcc:/usr/local/gcc-arm-none-eabi-5_4-2016q3/bin/arm-none-eabi-g++:/Users/noriakioshita/.nodebrew/current/bin:/usr/local:/Users/noriakioshita/Downloads/google-cloud-sdk/bin:/usr/local/sbin:/Users/noriakioshita/.jenv/shims:/Users/noriakioshita/.jenv/bin:/Users/noriakioshita/.pyenv/shims:/Users/noriakioshita/.pyenv/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/TeX/texbin:/opt/X11/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/noriakioshita/go/bin:/Applications/Julia-0.6.app/Contents/Resources/julia/bin/julia/bin:/Users/noriakioshita/go/bin:/Applications/Julia-0.6.app/Contents/Resources/julia/bin/julia/bin
+
+Yarn version: 
+  1.5.1
+
+Node version: 
+  9.7.1
+
+Platform: 
+  darwin x64
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
+
+Trace: 
+  Error: Couldn't find a package.json file in "/Users/noriakioshita/Github/julia/ml_page"
+      at new MessageError (/usr/local/Cellar/yarn/1.5.1/libexec/lib/cli.js:186:110)
+      at /usr/local/Cellar/yarn/1.5.1/libexec/lib/cli.js:40048:15
+      at Generator.next (<anonymous>)
+      at step (/usr/local/Cellar/yarn/1.5.1/libexec/lib/cli.js:98:30)
+      at /usr/local/Cellar/yarn/1.5.1/libexec/lib/cli.js:109:13
+      at <anonymous>
